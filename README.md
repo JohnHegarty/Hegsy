@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Intro</title>
+  
   <meta name="description" content="My Student Website">
   <meta name="John Hegarty" content="S40 student id">
 
