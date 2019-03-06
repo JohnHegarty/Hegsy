@@ -58,6 +58,157 @@
             -ms-user-select: none;
             user-select: none;
             background-image: none;
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+  <link href="CSS/normalize.css" rel="stylesheet" type="text/css"/>
+  <link href="CSS/style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<header class="hf-style" >
+  <div class="main-heading row">
+      <h1> My I.T Profile </h1>
+    </div>
+</header>
+
+<section class="section-personal row">
+  <div>
+      
+    <h2>Personal Information</h2>
+      
+      <img class="profile-photo" src="Images/843.jpg">
+  
+    <p>My name is <strong>Ryan Bullock</strong> my student number is <strong>s3273504</strong> and my email address is <strong>
+        s3273504@student.rmit.edu.au</strong>.</p>
+    
+    <p class="personal-test">I am Australian but my background is English and Irish my ancestors fled the UK after world war 2 started. I have been studying I.T for a while now, I received the highest mark in my year 12 I.T class studying at Mill Park secondary collage and went on to study an Advanced diploma of computer system engineering at NMIT now Melbourne polytechnic after a year of a plumbing apprenticeship. An interesting fact about me is that i play field hockey for la Trobe uni and own a 12 year old cat.<strong>GO PIES!</strong></p>   
+      
+  </div>
+ </section>
+
+ <section class="section-Interest row">
+   <div>
+    <h2>Interest in IT</h2>
+
+      <p>My interest in IT is mainly the server/networking side with a little bit of web design on the side, I first got interested in I.T When my dad brought home an Intel Pentium 2 and i started using ICQ and playing The Sims and Abs Odyssey and slowly built in to the house hold I.T support person and helping friends and family with printing and browser viewing issue, I then did some I.T classes in high school and finally got in to the I.T field. I am now working as a System analyst/systems engineer for a small company, I originally started out as a level 1 support technician and was promoted to a level 2 systems engineer then i decided to take on another challenge with start a small side business designing small web sites and fixing consumers computer issues. My main tasks at work are help desk support, maintaining SharePoint, creating SQL query's for reports and our phone systems.</p>
+        
+      <p>I originally applied for La Trobe uni as it was close to my house but found out that they do not hold night class or online class and found La Trobe’s enrolment process very unhelpful and confusing, OUA/RMIT was much easier and the staff were a lot more helpful and i believe RMIT are known more for there information technology courses.</p>
+        
+      <p>I would like to further improve my I.T skill beyond being just an I.T technician, I would like to be designing networking's and I.T infrastructure or maybe even be a team leader / manger on client I.T. projects, having more of an impact on the solution and not just maintaining or troubleshooting minor issues. I would also like to learn more about the software development side of I.T as I have not had much experience programming.</p>
+        
+     </div>
+ </section>
+    
+    <section class="section-ideal row">
+        <div >
+            <h2>Ideal Job</h2>
+            
+            <a href="Images/Capture3.JPG"><img class="seek-photo" src="Images/Capture3.JPG"></a>
+            
+            <p>This is my ideal job because it has so many different types of technology involved and I can always be up-to-date with the latest I.T trends such as design network with Cisco router and switches, using the latest windows server editions and windows products, VMWare ESXi models and hyper-v designs.</p>
+            
+            <p>To gain this position I would need to have a number of years experience with troubleshooting I.T problems, Designing I.T solutions and a degree with a number of certifications including CCNA, MCSE and also good customer facing charisma.</p>
+            
+            <p>I have already studied an advanced diploma of computer systems engineering which I hope allows me to gain credits from my degree. I also have an expired CCENT and Exam 70-410/Course 20410 certification. I plan to upgrade the CCENT to a CCNA and to complete 2 other MSCA exam to gain a full MSCA certificate, as for experience I have work a lot with backup systems such as windows backup, azure backup and Veeam. I have also worked with both current and older version of windows and windows server from 2003 to 2016 other technologies include Sonicwalls, Cisco, Connectwise, exchange on premises and office 365 and many more.</p>
+            
+            <p>To achieve the skills needed to reach this job position I would need to continue to work in the I.T industry but maybe move to a more hardware/software position to gain more experience with the technologies used today, I would also have to complete this degree and renew my CCNA certificate and finish 2 more Microsoft certifications. Exam 70-411/Course 20411 and Exam 70-412/Course 20412.</p>
+            
+            <a class="seek-link" href="https://www.seek.com.au/job/38382274?type=standard&searchrequesttoken=54b1d015-a04a-47d6-92d8-c1b1c57cfa1f"> Link to Seek Advertisement</a>
+        </div>
+    </section>
+    
+    <section class="section-Personal row">
+        <div>
+            <h2>Personal Profile</h2>
+            
+            <p>The results to these test's was a bit surprising to me as i always saw myself as an introvert and the 16 personalities test shows that I am an extrovert and that I need to work with hands on projects, things like learning coding by doing instead of just reading a book or watching a video about then subject. the third test shows that i work well in a team but not as a leader and need some direction before starting a new idea.</p>
+            
+            <p> After doing these 3 tests i believe i need to speak up for about my ideas in a team and not just do what the group agrees to just to save from having an argument or a conflict, I believe that I would work best in a smaller team then a larger team as i like to get to know my team members before trusting them, I would also benefit from having team member that are not like me and have a more visual and Audible approach to a problem.</p>
+            
+            <p>With the results from these test I would look for team members that are good at taking the lead on a project but also allow me to use my skills and idea's to create something that i think is meaningful to work on. i would also look for team members that I can trust and can help me with areas that I lack in.</p>
+
+        </div>
+        
+        <div class="column text-center">
+            <a href="Images/capture1.PNG"><img src="Images/capture1.PNG"></a>
+            <a href="https://www.16personalities.com/profiles/3abd26bfaa1dd"> Link to 16 Personalities</a>
+        </div>
+        <div class="column">
+            <a href="Images/Capture5.JPG"><img src="Images/Capture2.JPG"></a>
+            <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Link to Education Planner</a>
+        </div>
+        <div class="column">
+            <a href="Images/Capture4.JPG"><img src="Images/Capture4.JPG"></a>
+            <a href="https://www.personalityperfect.com/test/free-personality-test/"> Link to Personality perfect</a>
+        </div>
+         
+        </section>
+    
+        <section class="section- row">
+            <div>
+                <h2>Project Idea</h2>
+                
+                <p>My project would be a medical device that would help users not have to go to their GP for a General checkup and have to wait for hours to see a doctor. To solve this issue I would be developing a smart watch that could help with the most basic and day to day medical exams by having bio medical hardware sensors and software developed to store the data in to an encrypted private database in the cloud that you could send to your chosen doctor to review and if your doctor needs to follow up with you because of any concern he can schedule you an appointment. </p>
+                
+                <p>I believe this device would be useful for freeing up general practitioners clients for more urgent emergencies and to help people that have difficulties travelling to a GP for a basic checkup. The device would also alert people to any issues they are having with there bodies before the health issue is unmanageable or fatal, this could save many lives and would not cost much more then the most expensive sports smart watches and could even be medically subsidised by the government health system to lower costs for low income earners and for elderly patients this could be developed in to a house hold item with easier to understand instructions similar to google assistant for phone and google home for your house. </p>
+                
+                
+                <p>The features of the smart watch would include all the general health checks such as, Height / weight checker to check that the user is not overweight for there height which could lead to type 2 diabetes or heart disease and strokes, Blood pressure checker to check for any heart disease, Cholesterol level checker to check the users liver is working correctly and reduce heart attacks and strokes, Blood sugar test to test for diabetes, Throat and ear check to check for any inflammation or infection and to take your temperature, Eye checker to check your eyes are reacting to light correctly and for any signs of infection or lumps, The last two feature will only be available from the home unit an Electrocardiogram (ECG) to further check for irregular heat beats and heart disease and a Chest x-ray to check lungs and other internal organs the software will run on android so that the software can be downloaded on any smart device but to use all the features and advanced features you will need to buy both the home unit and smart device E.G smartwatch.</p>
+
+                <p>The back end of the software will be a service that connects to a database stored in the cloud so that GP clinics can op in to the service and receive the data from the user device in to the patients medical history file there would need to be a lot of encryption and security on the database and the cloud server would need to be stored in a top security server farm. The GP clinic could than review the results of the data and notify the user if they are at risk of any health issues and the user could then make an appointment to see there GP when it is convent for them or make transport plans ahead of time.</p>
+                
+                <p>Bruce Japsen suggests that some patients are waiting up to 24 days before seeing a doctor which is way to long to be waiting to see a doctor which is where my device would save people having to see a doctor if they don’t need to and free up the queue for people that do. </p>
+                
+                <p>Some drawbacks may include the price to purchase all the features and make the device available to all users, to make the device small enough to fit on your wrist and all the costs to keep the servers running to make this all affordable we would need to use open source software which is free and customizable but this my cause some security concerns for some people and would make supporting the software and servers a lot more challenging.</p>
+                
+                <p>The tools and technology needed to make this project would be as raspberry pi board for the home unit with a WiFi adaptor and an android operating system to run the android app to input all your medical data such as height the project would need to include multiple medical equipment such as a wrist band that can expand to test for blood pressure like the Omron Heart Zone band the project would also need an Electronic sweat band as used in Graphene Wristband Senses, both bands could be made in to one device / band. To check for the throat and ear we would need a separate attachment like the TERMIR-4 which could be modified to also have a camera attached to it with a light to get good images or your ear and throat plus your temperature, pads could be added to the raspberry pi or watch wrist strap to monitor your heart like an ECG. The last device is a little tricky and needs a terahertz chips and has privacy concerns around its technology and I think should be left out as it could be used against people in the public.
+                </p>
+
+                <p>The technology needed for the server side would need to be some brand of server blade / farm and networking equipment E.G router, switches, firewalls, fibre connection, with a Unix based operating system with high military grade security for all the medical data </p>
+                
+                <p>The Skills required for this project would be medical experience / guidance, a strong team of applications developers that could follow the knowledge of the medical team the project would also need hardware/electrical engineers to to develop and modify the bands and temperature readers to have the new advanced technology built in to it many server admins and developers that have Unix experience to create and maintain the servers and network equipment a minimum of to fibre ISP so that the system never go down and a project management team to check that all components are compatible with each other.</p>
+                
+                <p>The overall out come of this project is to be able to have preventative maintenance on the health of the user who uses the devices and to free up medical clinics so the wait time are not as long which deters people way from seeing a doctor when they really need to as many common health signs could be leading up to a fatal outcome if not check as soon as possible so negative outcome could be lose of jobs for nurses or doctors as this can be monitored remotely and hopefully the development of these devices could lead to more research being done in the medical field because so much more data would be available</p>
+
+            </div>
+        </section>
+    
+        <section class="section-referances row">
+            <div>
+                <h2>References</h2>
+                
+                <ul>
+                    <li><a href="https://www.niddk.nih.gov/health-information/weight-management/health-risks-overweight">Link to Niddk.nih.gov</a> </li>
+                
+                    <li><a href="https://www.sharecare.com/health/high-blood-pressure-prevention/should-check-blood-pressure">Link to sharecare.com</a></li>
+                
+                    <li><a href="https://www.canada.ca/en/public-health/services/chronic-diseases/cardiovascular-disease/why-blood-cholesterol-levels-measured.html">Link to Canada.ca</a></li>
+                
+                    <li><a href="https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/blood-sugar/art-20046628">Link to Mayoclinic.org</a></li>
+                
+                    <li><a href="https://www.forbes.com/sites/brucejapsen/2017/03/19/doctor-wait-times-soar-amid-trumpcare-debate/">Link to Forbes.com</a></li>
+                
+                    <li><a href="https://www.toptenthebest.com/top-10-best-wrist-blood-pressure-monitors/">Link to Toptenthebest.com</a></li>
+                
+                    <li><a href="https://spectrum.ieee.org/the-human-os/biomedical/bionics/graphene-wristband-senses-your-bloodsugarand-treats-it">Link to Spectrum.ieee.org</a></li>
+                
+                    <li><a href="http://www.medicalexpo.com/prod/ca-mi/product-80188-563467.html">Link to Medicalexpo.com</a></li>
+                
+                    <li><a href="https://www.researchgate.net/post/ECG_signal_taken_from_the_wrist11">Link to Researchgate.net</a></li>
+                
+                    <li><a href="https://www.extremetech.com/extreme/160688-tiny-terahertz-chips-can-give-smartphones-x-ray-vision-tricorder-like-functionality">Link to Extremetech.com</a></li>
+                </ul>
+                
+            </div>
+        </section>
+
+    <footer class="hf-style">    <div>
+        <p> | Copyright &copy; Ryan Bullock 2019 | </p>
+    </div>
+    </footer>
+</body>
+</html>
+
             border: 0;
             border-radius: 2px;
             text-decoration: none;
